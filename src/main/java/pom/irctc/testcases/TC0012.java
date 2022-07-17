@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import pom.irctc.pages.CovidAlertPage;
 import wrappers.ProjectWrappers;
 
-public class TC001 extends ProjectWrappers{
+public class TC0012 extends ProjectWrappers{
 	
 	@BeforeClass
 	public void beforeClass() {
